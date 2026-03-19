@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.yourcvcraft.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.yourcvcraft.com/builder.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.yourcvcraft.com/tips.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.yourcvcraft.com/about.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.yourcvcraft.com/contact.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.yourcvcraft.com/privacy.html</loc><priority>0.4</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://www.yourcvcraft.com/terms.html</loc><priority>0.4</priority><changefreq>yearly</changefreq></url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/index.html</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/builder.html</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/cvcraft.html</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/tips.html</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/about.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/contact.html</loc>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/privacy.html</loc>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cvcraft.qzz.io/terms.html</loc>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
 </urlset>
